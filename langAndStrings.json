@@ -1,0 +1,88 @@
+{
+    "languages": {
+        "default": "en",
+        "available": ["tr", "de"]
+    },
+    "strings": {
+        "mainPage": {
+            "en": "Main Page",
+            "tr": "Ana Sayfa",
+            "de": "Hauptseite"
+        },
+        "about": {
+            "en": "About Us",
+            "tr": "Hakkımızda",
+            "de": "Über uns"
+        },
+        "partners": {
+            "en": "Partners",
+            "tr": "İş Birliklerimiz",
+            "de": "Partner"
+        },
+        "ourMachines": {
+            "en": "Our machines",
+            "tr": "Makinelerimiz",
+            "de": "Unsere Maschinen"
+        },
+        "productsAndServices": {
+            "en": "Products & Services",
+            "tr": "Ürünler & Hizmetler",
+            "de": "Produkte & Dienstleistungen"
+        },
+        "contact": {
+            "en": "Contact Us",
+            "tr": "İletişim",
+            "de": "Kontakt"
+        },
+        "qualityControl": {
+            "en": "Quality Control",
+            "tr": "Kalite Kontrol",
+            "de": "Qualitätskontrolle"
+        },
+        "silkscreenPrinting": {
+            "en": "Silkscreen Printing",
+            "tr": "Serigrafi Baskı",
+            "de": "Serigrafie"
+        },
+        "slogan1": {
+            "en": "imaj otomasyon",
+            "tr": "imaj otomasyon",
+            "de": "imaj otomasyon"
+        },
+        "slogan2": {
+            "en": "imaj otomasyon san. tic. ltd. şti.",
+            "tr": "imaj otomasyon san. tic. ltd. şti.",
+            "de": "imaj otomasyon san. tic. ltd. şti."
+        },
+        "card1Title": {
+            "en": "Machine 1",
+            "tr": "Makine 1",
+            "de": "Maschine 1"
+        },
+        "card1Text": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tr": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "de": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+        },
+        "card2Title": {
+            "en": "Machine 2",
+            "tr": "Makine 2",
+            "de": "Maschine 2"
+        },
+        "card2Text": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tr": "Hele hele Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "de": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+        },
+        "card3Title": {
+            "en": "Machine 3",
+            "tr": "Makine 3",
+            "de": "Maschine 3"
+        },
+        "card3Text": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "tr": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "de": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+        }
+    }
+}

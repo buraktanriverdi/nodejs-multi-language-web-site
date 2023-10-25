@@ -1,0 +1,74 @@
+{
+    "header": [
+        {
+            "href": "/",
+            "string": "mainPage",
+            "sub":false
+        },
+        {
+            "href": "/about",
+            "string": "about",
+            "sub": false
+        },
+        {
+            "href": "/partners",
+            "string": "partners",
+            "sub":false
+        },
+        {
+            "href": "/machines",
+            "string": "ourMachines",
+            "sub": [
+                {
+                    "href": "/quality-control",
+                    "string": "qualityControl"
+                },
+                {
+                    "href": "/silkscreen-printing",
+                    "string": "silkscreenPrinting"
+                }
+            ]
+        },
+        {
+            "href": "/products-and-services",
+            "string": "productsAndServices",
+            "sub": false
+        },
+        {
+            "href": "/contact",
+            "string": "contact",
+            "sub":false
+        }
+    ],
+    "mainPage": {
+        "carts": [
+            {
+                "titleString": "card1Title",
+                "textString": "card1Text",
+                "imgSrc": "./static/card1.jpg"
+            },
+            {
+                "titleString": "card2Title",
+                "textString": "card2Text",
+                "imgSrc": "./static/card2.jpg"
+            },
+            {
+                "titleString": "card3Title",
+                "textString": "card3Text",
+                "imgSrc": "./static/card3.jpg"
+            }
+        ],
+        "partners": [
+            {
+                "partner-name": "GEW UV",
+                "textString": "gewUvText",
+                "imgSrc": "./static/partners-logo/gev-uw.png"
+            },
+            {
+                "partner-name": "MPS",
+                "textString": "mpsText",
+                "imgSrc": "./static/partners-logo/mps.png"
+            }
+        ]
+    }
+}
